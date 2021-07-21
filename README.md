@@ -1,2 +1,2 @@
 # coding
-local para depósito de projetos da disciplina Introdução ao Coding web do Curso IoT
+Local para o depósito de projetos(códigos) da Disciplina Programação Introdução ao Coding Web do Curso Superior de Tecnologia em Internet das Coisas da UNAMA
